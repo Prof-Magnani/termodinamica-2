@@ -6,7 +6,7 @@
 ## Ementa (resumo)
 Exergia, ciclos de potência e refrigeração, relações termodinâmicas, misturas e combustão, equilíbrios.
 
-## Conteúdo programático (sugerido)
+## Conteúdo programático (sugerido) 
 - Exergia termomecânica
 - Ciclos a vapor e a gás
 - Refrigeração
@@ -15,8 +15,3 @@ Exergia, ciclos de potência e refrigeração, relações termodinâmicas, mistu
 - Combustão e exergia química
 - Equilíbrio químico e de fases
 
-## Organização do repositório
-- `notebooks/` — problemas e estudos de caso
-- `listas/` — exercícios
-- `figuras/` — p‑v, T‑s, h‑s, psicrométricos
-- `refs/` — tabelas e propriedades
