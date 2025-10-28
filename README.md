@@ -36,4 +36,7 @@ Exergia, ciclos de potência e refrigeração, relações termodinâmicas, mistu
 
 ## Gabaritos
 
-[Gabarito da 2a Prova de Termodinâmica Aplicada (13/08/2025)](https://colab.research.google.com/github/Prof-Magnani/termodinamica-2/blob/main/gabaritos/Termo_Aplicada_P2_13082025.ipynb) 
+[Gabarito da 1a Prova de Termodinâmica Aplicada (29/10/2025)](https://colab.research.google.com/github/Prof-Magnani/termodinamica-2/blob/main/gabaritos/Termo_Aplicada_P2_29102025-Sem2.ipynb) 
+
+
+[Gabarito da 2a Prova de Termodinâmica Aplicada (13/08/2025)](https://colab.research.google.com/github/Prof-Magnani/termodinamica-2/blob/main/gabaritos/Termo_Aplicada_P2_13082025-Sem1.ipynb) 
